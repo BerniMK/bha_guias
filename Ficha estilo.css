@@ -1,0 +1,57 @@
+.fichaKissN{
+		background: #a30f34;
+		width: 420px;
+		padding: 15px;
+		color: #fff;
+		margin: auto;
+		font-family: Cookie;
+		font-size: 30px;
+		text-align: center;
+	}
+	.fichaKissC{
+		width: 420px;
+		height: 420px;
+		padding: 15px;
+		background: #111;
+		color: #fff;
+		margin: auto;
+	}
+	.fichaKissI{
+		width: 150px;
+		height: 420px;
+		float: right;
+	}
+
+	.fichaKissI img{
+		width: 140px;
+		height: 140px;
+		outline-offset: 5px;
+		outline: 1px solid #a30f34;
+		margin: auto;
+	}
+	.fichaKissT{
+		width: 250px;
+		height: 420px;
+		float: right;
+		overflow: auto;
+		margin-right: 15px;
+		text-align: justify;
+		font-size: 11px;
+	}
+	.fichaKissD{
+		background: #a30f34;
+		color: #fff;
+		text-transform: uppercase;
+		font-size: 11px;
+		width: 130px;
+		padding: 5px;
+		margin-top: 10px;
+		text-align: center;
+	}
+	.fichaKissS{
+		color: #fff;
+		text-align: right;
+		font-size: 14px;
+		border-bottom: 1px solid #a30f34;
+		padding: 5px;
+	}
